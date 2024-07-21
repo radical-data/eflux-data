@@ -4,7 +4,7 @@ A Python package to scrape announcements from e-flux.
 
 ## Quickstart
 
-- Install with `poetry install`.
+- Install with `poetry install --no-root`.
 - Choose how many pages you want in `main.py`.
 - Run it: `poetry run python main.py`.
 

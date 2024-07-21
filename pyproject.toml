@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "efluxdata"
+name = "eflux-data"
 version = "0.1.0"
 description = "Creates a database of all e-flux announcements."
 authors = ["Your Name <you@example.com>"]
