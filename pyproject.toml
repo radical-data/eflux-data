@@ -5,6 +5,12 @@ description = "Creates a database of all e-flux announcements."
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
