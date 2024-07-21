@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "efluxdata"
+version = "0.1.0"
+description = "Creates a database of all e-flux announcements."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
